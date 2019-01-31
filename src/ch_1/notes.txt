@@ -1,0 +1,4 @@
+pubic - available to all
+private - most restrictive, can only be accessed in the same class
+default (package private) - allows access from code in the same package
+protected - same as default, but sub-classes outside of the package can access also
