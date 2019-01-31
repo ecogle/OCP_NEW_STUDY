@@ -9,6 +9,6 @@ public class CatAdmirer {
 		System.out.println(cat.name); // public 
 		System.out.println(cat.hasFur); // protected - same package
 		System.out.println(cat.hasPaws); // default - same package
-        System.out.println(cat.id); //private - not same class
+        //System.out.println(cat.id); //private - not same class
 	}
 }
